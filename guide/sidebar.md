@@ -1,0 +1,3 @@
+- Get Started
+    - [What is Savage?](/guide/get-started/what-is-savage)
+    - [What is Savage: Rebirth?](/guide/get-started/what-is-savage-rebirth)
