@@ -1,3 +1,4 @@
 - Get Started
-    - [What is Savage?](/guide/get-started/what-is-savage)
-    - [What is Savage: Rebirth?](/guide/get-started/what-is-savage-rebirth)
+	- What is Savage?
+	- What is Savage: Rebirth?
+		- Technical Enhancements
