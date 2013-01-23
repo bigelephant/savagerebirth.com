@@ -24,6 +24,6 @@
 
 ### A special thanks to...
 - Trigardon
-- Pheonix Scout
+- Phoenix Scout
 - Django
 - [Fractiv](http://fractiv.com) *(a studio founded by 3 of the original Savage developers)*
