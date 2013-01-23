@@ -7,8 +7,10 @@
 
 - Adam Turk
 - David Gilbert
+- Luke Smoljak
 - Rhyle Mayes
 - Robert Clancy
+- Slaid
 
 #### Contracted and past contributions
 - Mefix
