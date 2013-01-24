@@ -18,8 +18,8 @@
 - David Trowridge
 
 ### Previous versions of Savage
-*This is a list of contributions to Savage versions*
-*Work from these versions appears in Savage: Rebirth*
+*This is a list of contributions to Savage versions.*
+*Work from these versions appears in Savage: Rebirth.*
 
 - [Newerth.com dev team](http://newerth.com) - Savage XR
 - Uttar & Jebus - SFE & EX2
