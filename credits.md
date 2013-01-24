@@ -10,9 +10,9 @@
 - Luke Smoljak
 - Rhyle Mayes
 - Robert Clancy
-- Slaid
+- Seth Russell
 
-#### Contracted and past contributions
+#### Past contributions
 - Mefix
 - Bjarne
 - David Trowridge
