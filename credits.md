@@ -21,7 +21,7 @@
 *This is a list of contributions to Savage versions.*
 *Work from these versions appears in Savage: Rebirth.*
 
-- [Newerth.com dev team](http://newerth.com) - Savage XR
+- [Newerth.com](http://newerth.com) dev team - Savage XR
 - Uttar & Jebus - SFE & EX2
 - [S2Games](http://s2games.com) - Savage: The Batte for Newerth (the original!)
 
