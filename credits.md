@@ -17,10 +17,11 @@
 - Bjarne
 - David Trowridge
 
-### Previous version of Savage
-*This is a list of contributions to Savage: The Battle for Newerth*
+### Previous versions of Savage
+*This is a list of contributions to Savage versions*
+*Work from these versions appears in Savage: Rebirth*
 
-- [Newerth.com](http://newerth.com) - Savage XR
+- [Newerth.com dev team](http://newerth.com) - Savage XR
 - Uttar & Jebus - SFE & EX2
 - [S2Games](http://s2games.com) - Savage: The Batte for Newerth (the original!)
 
